@@ -1,13 +1,11 @@
 --sacred#9060 was here,So was jude#1745, and so was SKM364#5480 (added my own bypasses to the list)
 --
-
 local args = {
     [1] = "Successfully ran JSS Bypass! .gg/g6Tkvnd2Uz",
     [2] = "All"
 }
 
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-
 local Bypasses = {
     ["ass"] = "as{{aieixzvzx:s}}",
     ["cumming"] = "cu{{aieixzvzx:mming}}",
@@ -79,7 +77,7 @@ local Bypasses = {
     ["moan"] = "m{{aieixzvzx:oan}}",
     ["moaning"] = "m{{aieixzvzx:oaning}}",
     ["anal"] = "a{{aieixzvzx:nal}}",
-    ["homo"] = "hom{{aieixzvzx:0}}",
+    ["homo"] = "h0m{{aieixzvzx:o}}",
     ["analed"] = "a{{aieixzvzx:naled}}",
     ["footjob"] = "footj{{aieixzvzx:ob}}",
     ["thighjob"] = "thighj{{aieixzvzx:ob}}",
@@ -162,6 +160,67 @@ local Bypasses = {
 ["pastebin"] = "paste{{aieixzvzx:bin}}",    
 
 ["dating"] = "dat{{aieixzvzx:ing}}",    
+["rapes"] = "ra{{aieixzvzx:pes}}",    
+["girlfriend"] = "girl{{aieixzvzx:friend}}",   
+["boyfriend"] = "boy{{aieixzvzx:friend}}",   
+["love"] = "lo{{aieixzvzx:ve}}",  
+["gay"] = "g{{aieixzvzx:ay}}",  
+["boob"] = "boo{{aieixzvzx:b}}",  
+["boobs"] = "boo{{aieixzvzx:bs}}",  
+["drug"] = "dr{{aieixzvzx:ug}}",  
+["drugs"] = "dr{{aieixzvzx:ugs}}",
+["masturbate"] = "mas{{aieixzvzx:turbate}}",
+["masturbation"] = "mas{{aieixzvzx:turbation}}",
+["robux"] = "ro{{aieixzvzx:bux}}",
+[".com"] = ".c{{aieixzvzx:om}}",
+["www."] = "ww{{aieixzvzx:w.}}",
+["rule34."] = "ru{{aieixzvzx:le34.}}",
+["xxx"] = "xx{{aieixzvzx:x}}",
+["rule34"] = "ru{{aieixzvzx:le34}}",
+["pedo"] = "ped{{aieixzvzx:o}}",
+
+["masturbates"] = "mas{{aieixzvzx:turbat3s}}",
+
+["racist"] = "rac{{aieixzvzx:ist}}",
+
+["my"] = "m{{aieixzvzx:y}}",
+["addiction"] = "add{{aieixzvzx:iction}}",
+
+["shut"] = "sh{{aieixzvzx:ut}}",
+
+["the"] = "th{{aieixzvzx:e}}",
+
+["retard"] = "re{{aieixzvzx:tard}}",
+
+["masturbating"] = "mas{{aieixzvzx:turbating}}",
+
+["word"] = "wo{{aieixzvzx:rd}}",
+
+["kissed"] = "k{{aieixzvzx:issed}}",
+
+["satan"] = "sat{{aieixzvzx:@n}}",
+
+["hot"] = "h{{aieixzvzx:ot}}",
+
+["kool"] = "ko{{aieixzvzx:ol}}",
+
+["kids"] = "ki{{aieixzvzx:ds}}",
+
+["klub"] = "kl{{aieixzvzx:ub}}",
+
+["kkk"] = "kk{{aieixzvzx:k}}",
+
+["lesbian"] = "les{{aieixzvzx:bian}}",
+
+["prostitute"] = "prost{{aieixzvzx:itute}}",
+
+["school"] = "sc{{aieixzvzx:hool}}",
+
+["shooter"] = "shoot{{aieixzvzx:er}}",
+
+
+
+  
 }
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
